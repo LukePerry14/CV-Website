@@ -170,6 +170,7 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  color: #F0F0F0;
 }
 
 abbr[title] {
@@ -10830,7 +10831,7 @@ textarea.form-control-lg {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color: #FFFFFF;
 }
 
 @media (min-width: 992px) {
@@ -10867,6 +10868,7 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
+  color: #D5D5D5;
 }
 
 #sideNav {
